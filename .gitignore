@@ -130,5 +130,5 @@ dmypy.json
 *.png
 
 misc/
-DataGeneration/plotData/labels/testPlots.csv
-DataGeneration/plotData/labels/trainPlots.csv
+data/plotData/labels/testPlots.csv
+data/plotData/labels/trainPlots.csv
