@@ -132,3 +132,6 @@ dmypy.json
 misc/
 data/plotData/labels/testPlots.csv
 data/plotData/labels/trainPlots.csv
+data/
+
+*.pth
