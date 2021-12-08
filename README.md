@@ -16,4 +16,4 @@ Once file paths have been correctly set, each script can be run by running each 
 
 For the plotGenerationScript, you may want to adjust the numPlots variable to change the amount of plots that will be generated.
 
-For the network notebooks, you may want to adjust the EPOCHS variable and numLoops variables to change how much the network runs. The last runnable cell in the notebook is used to test the network after running the training loop. You may want to change the imagenum variable to go between test items. (This cell will only run if the network has trained at least one batch of data.)
+For the network notebooks, you may want to adjust the EPOCHS variable and numLoops variables to change how much the network runs. The last runnable cell in the notebook is used to test the network after running the training loop. You may want to change the imagenum variable to go between test items. (This cell will only run if the network has trained at least one batch of data.) Commented out code is not runnable.
